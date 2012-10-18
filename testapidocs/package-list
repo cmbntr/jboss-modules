@@ -1,0 +1,5 @@
+org.jboss.modules
+org.jboss.modules.ref
+org.jboss.modules.ref.util
+org.jboss.modules.test
+org.jboss.modules.util
